@@ -2,9 +2,9 @@ Supplementing material for the paper
 
 ## "A Splitting Scheme for Dispersive Shallow Moment Equations"
 
-Ullika Scholz, Department of Mathematics, RWTH Aachen University, Aaachen, Germany, scholz@acom.rwth-aachen.de
-Robin Paar, Research Training Group EDDy, RWTH Aachen University, Aaachen, Germany
-Manuel Torrilhon, Department of Mathematics, RWTH Aachen University, Aaachen, Germany
+Ullika Scholz, Department of Mathematics, RWTH Aachen University, Aachen, Germany, scholz@acom.rwth-aachen.de
+Robin Paar, Research Training Group EDDy, RWTH Aachen University, Aachen, Germany
+Manuel Torrilhon, Department of Mathematics, RWTH Aachen University, Aachen, Germany
 
 
 #### Abstract: 
